@@ -54,9 +54,10 @@
             FirstNamelable.AutoSize = true;
             FirstNamelable.Location = new Point(17, 25);
             FirstNamelable.Name = "FirstNamelable";
-            FirstNamelable.Size = new Size(67, 15);
+            FirstNamelable.Size = new Size(57, 15);
             FirstNamelable.TabIndex = 0;
-            FirstNamelable.Text = "FirstName :";
+            FirstNamelable.Text = "maryam :";
+            FirstNamelable.Click += FirstNamelable_Click;
             // 
             // LastNamelabel
             // 

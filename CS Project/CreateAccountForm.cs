@@ -25,5 +25,10 @@ namespace CS_Project
         private void textBox4_TextChanged(object sender, EventArgs e)
         {
         }
+
+        private void FirstNamelable_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
